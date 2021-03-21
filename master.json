@@ -1,11 +1,11 @@
 {
   "masterlinks": [
     {
-      "link": "https://admission.ignou.ac.in/changeadmdata/StatusExam.asp?submit=1&",
+      "link": "https://admission.ignou.ac.in/changeadmdata/StatusExam.asp?submit=1&enrno=",
       "title": "Term End Examination Submission Status"
     },
     {
-      "link": "https://termendresult.ignou.ac.in/TermEndDec20/TermEndDec20.asp?submit=Submit&hidden_submit=OK&",
+      "link": "https://termendresult.ignou.ac.in/TermEndDec20/TermEndDec20.asp?submit=Submit&hidden_submit=OK&eno=",
       "title": "TermEnd Result"
     },
     {
@@ -13,7 +13,7 @@
       "title": "AdmitCard and HallTicket"
     },
     {
-      "link": "https://admission.ignou.ac.in/changeadmdata/StatusAssignment.asp?submit=1&",
+      "link": "https://admission.ignou.ac.in/changeadmdata/StatusAssignment.asp?submit=1&enrno=",
       "title": "Assignment/Practical/Project Marks Submission Status"
     },
     {
@@ -21,16 +21,16 @@
       "title": "Student Profile"
     },
     {
-      "link": "https://gradecard.ignou.ac.in/gradecardM/Result.asp?submit=Submit&hidden_submit=OK&",
+      "link": "https://gradecard.ignou.ac.in/gradecardM/Result.asp?submit=Submit&hidden_submit=OK&eno=",
       "title": "Student Grade card For For BCA,MCA,MP,MPB,PGDHRM,PGDFM,PGDOM,PGDMM,PGDFMP",
       "type":""
     },
     {
-      "link": "https://gradecard.ignou.ac.in/gradecardB/Result.asp?submit=Submit&hidden_submit=OK&",
+      "link": "https://gradecard.ignou.ac.in/gradecardB/Result.asp?submit=Submit&hidden_submit=OK&eno=",
       "title": "Student Grade Card For ASSO, BA , BCOM, BDP, BSC"
     },
     {
-      "link": "https://gradecard.ignou.ac.in/gradecardR/Result.asp?submit=Submit&hidden_submit=OK&",
+      "link": "https://gradecard.ignou.ac.in/gradecardR/Result.asp?submit=Submit&hidden_submit=OK&eno=",
       "title": "Student Grade Card For Others"
     },
     {

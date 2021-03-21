@@ -1,0 +1,41 @@
+{
+  "masterlinks": [
+    {
+      "link": "https://admission.ignou.ac.in/changeadmdata/StatusExam.asp?submit=1&",
+      "title": "Term End Examination Submission Status"
+    },
+    {
+      "link": "https://termendresult.ignou.ac.in/TermEndDec20/TermEndDec20.asp?submit=Submit&hidden_submit=OK&",
+      "title": "TermEnd Result"
+    },
+    {
+      "link": "https://ignouhall.ignou.ac.in/halltickets/hall1220/Hall1220.asp?submit=Submit&hidden_submit=OK&",
+      "title": "AdmitCard and HallTicket"
+    },
+    {
+      "link": "https://admission.ignou.ac.in/changeadmdata/StatusAssignment.asp?submit=1&",
+      "title": "Assignment/Practical/Project Marks Submission Status"
+    },
+    {
+      "link": "https://admission.ignou.ac.in/studentregistration/eprofilestudentmobile.aspx",
+      "title": "Student Profile"
+    },
+    {
+      "link": "https://gradecard.ignou.ac.in/gradecardM/Result.asp?submit=Submit&hidden_submit=OK&",
+      "title": "Student Grade card For For BCA,MCA,MP,MPB,PGDHRM,PGDFM,PGDOM,PGDMM,PGDFMP",
+      "type":""
+    },
+    {
+      "link": "https://gradecard.ignou.ac.in/gradecardB/Result.asp?submit=Submit&hidden_submit=OK&",
+      "title": "Student Grade Card For ASSO, BA , BCOM, BDP, BSC"
+    },
+    {
+      "link": "https://gradecard.ignou.ac.in/gradecardR/Result.asp?submit=Submit&hidden_submit=OK&",
+      "title": "Student Grade Card For Others"
+    },
+    {
+      "link": "http://ignou.ac.in//userfiles/Common-Prospectus-English.pdf",
+      "title": "Common-Prospectus"
+    }
+  ]
+}

@@ -1,26 +1,22 @@
 {
 	"alerts": [{
-			"link": "https://iop.ignouonline.ac.in/",
-			"title": "Link for Online Programme Admission for January 2021 Session"
-		}, {
-			"link": "https://onlinerr.ignou.ac.in/",
-			"title": "Re -Registration for January 2021 Session extended up to 31st March 2021"
+			"link": "https://ignouadmission.samarth.edu.in/",
+			"title": "Online Admission Link for January 2022 Session"
 		}, {
 			"link": "https://sedservices.ignou.ac.in/convocation/",
-			"title": "Online Registration for 34th Convocation"
+			"title": "Online Registration for the 35th Convocationn"
 		}, {
-			"link": "http://ignou.ac.in/ignou/bulletinboard/news/latest/detail/Online_Registration_for__BED_OPENMAT_Post_Basic_Nursing_Program_Entrance_Test_for_January_2021_session_is_extended_upto_25th_March_2021-834",
-			"title": "Online Registration for BED, OPENMAT, Post Basic (Nursing Program) Entrance Test for January 2021 session is extended upto 25th March 2021"
+			"link": "http://ignou.ac.in/userfiles/Telephone-directory.pdf",
+			"title": "IGNOU Telephone-directory"
 		}, {
-			"link": "https://ignouadmission.samarth.edu.in/",
-			"title": "Admission for January 2021 Session in Distance Learning (ODL mode)"
+			"link": "http://www.ignou.ac.in/userfiles/Final%20Public%20Notice%20for%202021%20Reg-20_01_2022.pdf",
+			"title": "Public notice regarding Examination of ( IGNOU,Ph.D 2021) on 24th February 2022"
 		}, {
-			"link": "https://gradecard.ignou.ac.in/gradecardM/Result.asp?submit=Submit&hidden_submit=OK&eno=",
-			"title": "Check Your Grade Card"
-		},
-		{
-			"link": "https://ignouhall.ignou.ac.in/halltickets/hall1220/Hall1220.asp?submit=Submit&hidden_submit=OK&eno=",
-			"title": "Check Your Hall ticket"
+			"link": "https://onlinerr.ignou.ac.in/reevaluation/login.aspx",
+			"title": "Re-Evaluation & Copy of Answerscripts for TEE - June 2021 Students"
+		}, {
+			"link": "https://admission.ignou.ac.in/changeadmdata/admissionstatusnew.asp",
+			"title": "Registration Status"
 		}
 	]
 }
